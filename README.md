@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  o PAulo Victor Lisboa
+- 👋 Hi, I’m  o Paulo Victor Lisboa
 - 👀 I’m interested in  Tecnologia e Leitura
 - 🌱 I’m currently learning  Programação
 - 📫 How to reach me : pvjrlisboa@gmail.com
