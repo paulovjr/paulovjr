@@ -3,7 +3,7 @@
 
 - Em 2023 inicio a minha carreira em Desenvolvedor de Software Full Stack, sendo chancelada pela Cubos Academy, gerando expertise em Front-end, Back-end, Full Stack, HTML, CSS, JavaScript, Reat, Node.js e SQL. Também, faço faculdade em Análise e Desenvolvimento de Sistemas pela UNAMA.
   
-- Principais competênciasPrincipais competências
+- Principais competênciasPrincipais competências:
 React.js • Node.js • JavaScript • HTML • CSS
    
 - 📫 How to reach me : pvjrlisboa@gmail.com
